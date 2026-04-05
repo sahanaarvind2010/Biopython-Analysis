@@ -21,7 +21,7 @@ pip install biopython matplotlib
 
 How To Run:
 Clone this repository:
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/sahanaarvind2010/Biopython-Analysis.git
 Navigate into the folder:
 cd your-repo-name
 Run the script:
