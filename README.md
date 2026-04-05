@@ -1,5 +1,6 @@
 # Biopython-Analysis
 Sequence analysis pipeline using Biopython
+
 This project analyzes and visualizes the amino acid composition of t-SNARE proteins from two plant species:
 
 Landoltia punctata (translated from nucleotide sequence)
