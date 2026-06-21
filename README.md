@@ -13,7 +13,7 @@ Using Biopython and Matplotlib, the script:
 - Generates bar charts for visualization
 
 Nucleotide sequence: JZ990160.1 (Landoltia punctata)
-Protein sequence: KAH7659748.1 (Dioscorea alata)
+Protein sequence: KAH7657379.1 (Dioscorea alata)
 
 Requirements: 
 Install the required Python libraries
